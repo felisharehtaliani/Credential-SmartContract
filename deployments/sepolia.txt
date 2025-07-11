@@ -1,0 +1,15 @@
+Deployment Record: CredentialSBT Contract (Sepolia Testnet)
+
+This file documents the deployment metadata of the CredentialSBT smart contract to the Ethereum Sepolia Testnet.
+It serves as an official record for reproducibility, public verification, and journal artifact referencing.
+
++----------------------+------------------------------------------------------------------------------------------+
+| Field                | Value                                                                                    |
++----------------------+------------------------------------------------------------------------------------------+
+| Contract Name        | CredentialSBT                                                                            |
+| Contract Address     | 0xfdC6A964EBD738f2279388eC12B00AD53c48cD3b                                               |
+| Transaction Hash     | 0x36cbee4e023dfc83ee53b791c564e331f00b19890310fb5a843882bf3716365a                       |
+| Network              | Ethereum Sepolia Testnet                                                                 |
+| Deployment Tool      | Remix IDE with Injected Web3 (MetaMask)                                                  |
+| Deployment Timestamp | Jun-09-2025 16:02:24 UTC                                                                 |
++----------------------+------------------------------------------------------------------------------------------+
